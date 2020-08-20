@@ -1,0 +1,47 @@
+3 topic : 
+THETA
+Max :
+
+       -Gensim : 3.98 (alpha=0.05, beta=3)
+
+       -CGS: 1.38 (alpha=0.01, beta=5)
+
+
+Min: 
+
+       -Gensim: 0.00054 (alpha=0.03, beta=0.07)
+
+       -CGS: 0.017 (alpha=0.05, beta=0.01)
+
+Avg: 
+
+       -Gensim: 1.87
+ 
+       -CGS: 0.24
+
+PHI: 
+
+Max :
+
+       -Gensim : 1.21 (alpha=2, beta=0.07)
+
+       -CGS: 0.81 (alpha=5, beta=0.07)
+
+
+Min: 
+
+       -Gensim: 0.022 (alpha=0.05, beta=0.01)
+
+       -CGS: 0.041 (alpha=0.05, beta=0.01)
+
+Avg: 
+
+       -Gensim: 0.34
+ 
+       -CGS: 0.29
+
+Temps d'exec (1 run): 
+(alignement quasi auto)
+Gensim: 7s
+
+CGS: 20s
